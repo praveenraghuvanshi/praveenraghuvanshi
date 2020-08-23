@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/praveenraghuvanshi/praveenraghuvanshi.svg)](http://hits.dwyl.com/praveenraghuvanshi/praveenraghuvanshi)
 
 <!--
 **praveenraghuvanshi/praveenraghuvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
