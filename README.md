@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cloud, ML.Net
 - 📫 How to reach me: @praveenraghuvan
 - :house: Bangalore, India
+- 📧 contact@praveenraghuvanshi.com
+- 🌐 https://www.praveenraghuvanshi.com
 
 
 **[Community Engagement(Speaking/Articles)](https://github.com/praveenraghuvanshi/tech-sessions)**
